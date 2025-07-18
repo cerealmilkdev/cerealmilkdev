@@ -30,6 +30,8 @@
 📧 **adminms@makesocial.me**  
 🐦 **X / Twitter** : [@boiiicomeheree](https://twitter.com/boiiicomeheree)
 
+![build](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpwOTVyem1ha25zODNtNnJra25ibTQ4M25laDF0ZG5yM3RldXJheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yph35Uf4OQAVxpSJTe/giphy.gif)
+
 
 <!--
 **cerealmilkdev/cerealmilkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
