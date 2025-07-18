@@ -1,7 +1,7 @@
 ## cerealmilkdev
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-purple?style=flat&logo=github&logoColor=white)
 
-## 🧰 My Actual TechStack.
+## 🧰 My Actual TechStack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
