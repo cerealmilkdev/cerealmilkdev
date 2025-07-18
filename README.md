@@ -1,5 +1,6 @@
 ## cerealmilkdev
 ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-purple?style=for-the-badge&logo=github&logoColor=white)
+![Fullstack Developer](https://img.shields.io/badge/Fullstack%20-Developer%20-blue)
 
 ## 🧰 My current stack
 
@@ -18,7 +19,9 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-## adminms@makesocial.me
+## You can reach me on
+
+adminms@makesocial.me / X : @boiiicomeheree
 
 <!--
 **cerealmilkdev/cerealmilkdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
