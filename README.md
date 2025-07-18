@@ -1,5 +1,5 @@
 ## cerealmilkdev
-![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-purple?style=flat&logo=github&logoColor=white)
+![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-purple?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🧰 My Actual TechStack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
