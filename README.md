@@ -1,6 +1,6 @@
 
 ## cerealmilkdev 
-![Fullstack](https://img.shields.io/badge/Fullstack_Developer-darkblue?style=for-the-badge&logo=github&logoColor=white)
+![Fullstack](https://img.shields.io/badge/Fullstack-darkblue?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
